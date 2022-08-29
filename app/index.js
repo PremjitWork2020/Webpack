@@ -1,3 +1,3 @@
-const arr = ['pune', 'banglore', 'mumbai'];
+const arr = ['pune', 'banglore', 'mumbai', 'chennai'];
 
 console.log(arr);
